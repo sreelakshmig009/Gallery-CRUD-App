@@ -2,7 +2,7 @@
 
 ### App Name :- Destination Gallery
 
-#### Technical Stack(old project)
+#### Technical Stack[Testing Git]
 
 * Frontend :-  Reactjs
 * UI :- Material UI,Bootstrap Version 5
